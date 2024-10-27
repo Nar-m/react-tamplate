@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Nar-m/react-tamplate/static/css/main.350a4a4f.css",
+    "main.js": "/Nar-m/react-tamplate/static/js/main.c7ff0b75.js",
+    "static/js/453.15c7da97.chunk.js": "/Nar-m/react-tamplate/static/js/453.15c7da97.chunk.js",
+    "static/media/colorib.mp4": "/Nar-m/react-tamplate/static/media/colorib.d1b789090e3b76771eb0.mp4",
+    "index.html": "/Nar-m/react-tamplate/index.html",
+    "static/media/getFetch.cjs": "/Nar-m/react-tamplate/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.350a4a4f.css.map": "/Nar-m/react-tamplate/static/css/main.350a4a4f.css.map",
+    "main.c7ff0b75.js.map": "/Nar-m/react-tamplate/static/js/main.c7ff0b75.js.map",
+    "453.15c7da97.chunk.js.map": "/Nar-m/react-tamplate/static/js/453.15c7da97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350a4a4f.css",
+    "static/js/main.c7ff0b75.js"
+  ]
+}
